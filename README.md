@@ -1,14 +1,34 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# 🤖 Rusheel's AI Portfolio
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+![Portfolio Preview](./assets/img/preview-portfolio.png)  
+*Live demo: [https://RedEgnival.github.io/portfolio](https://RedEgnival.github.io/portfolio)*
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)](https://RedEgnival.github.io/portfolio)
+[![Last Updated](https://img.shields.io/github/last-commit/RedEgnival/portfolio)](https://github.com/RedEgnival/portfolio/commits/main)
 
-![preview img](/preview.png)
+A cutting-edge portfolio showcasing my machine learning expertise, AI projects, and research contributions. Built for technical recruiters and research collaborators.
+
+## ✨ Highlights
+
+- **Project Showcase**: Interactive display of LLM, CV, and ML projects
+- **Research Section**: Peer-reviewed publications and preprints
+- **Skills Visualization**: Interactive proficiency charts for AI stack
+- **Dark/Light Mode**: Toggle for comfortable viewing
+- **Performance Optimized**: 95+ Lighthouse score
+
+## 🛠 Core Technologies
+
+### AI/ML Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## 📂 Repository Structure
+
 
